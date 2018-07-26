@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "PWR CTRL BRD - Kopi - Kopi")(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
